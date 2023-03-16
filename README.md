@@ -10,7 +10,7 @@
 
 <br />
 
-**前言：** [**为什么你学不精JavaScript？** ](#为什么你学不精javascript)
+**前言：** [**为什么你学不精JavaScript？** ](./README.md#为什么你学不精javascript)
 
 **Part1 介绍篇：** 
 
@@ -47,9 +47,16 @@
 
 ## 一则临时“广告”
 
-我目前正在寻求一份好的工作机会 —— 前端开发，可base深圳、广州、香港，当然也可远程办公，有合适岗位推荐的朋友可联系邮箱：cxz40901993@gmail.com，感谢！
+我目前正在寻求一份好的工作机会 —— 前端开发，可base深圳、广州、香港，当然也可远程办公，有合适岗位推荐的朋友可联系：
+
+- 微信：e_b_education
+- 邮箱：cxz40901993@gmail.com
+
+感谢😊！
 
 <br />
+
+-----
 
 <br />
 
@@ -567,11 +574,9 @@ console.log((new Set(total.filter(e => e.length >= 5))).size) // 4662
 | [parsing errors](https://tc39.es/ecma262/multipage/error-handling-and-language-extensions.html#sec-error-handling-and-language-extensions) | [解析错误](./17.error.md)                                    |
 | [runtime errors](https://tc39.es/ecma262/multipage/error-handling-and-language-extensions.html#sec-error-handling-and-language-extensions) | [运行时错误](./17.error.md)                                  |
 
+<br />
 
-<br/>
-
-
-## 版权协议
+-----
 
 本书的版权协议为 [CC-BY-NC-ND license](https://creativecommons.org/licenses/by-nc-nd/3.0/deed.zh)。
 
