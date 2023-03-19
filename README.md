@@ -1,6 +1,6 @@
-# 《人人都能读标准》—— ECMAScript篇
+# 《人人都能读标准》—— JavaScript篇
 
-**本书系统地介绍了[ECMAScript标准](https://tc39.es/ecma262/multipage/)的阅读规则以及使用方式，并深入剖析了标准对JavaScript核心原理的描述。** 通过本书，读者能够完全掌握自行阅读标准的能力，深化对语言的理解，并最终得以使用标准 —— 这个世界上最好的JavaScript资料来解决日常工作问题、进阶个人编码能力。
+**本书系统地介绍了[JavaScript标准](https://tc39.es/ecma262/multipage/)的阅读规则以及使用方式，并深入剖析了标准对JavaScript核心原理的描述。** 通过本书，读者能够完全掌握自行阅读标准的能力，深化对语言的理解，并最终得以使用标准 —— 这个世界上最好的JavaScript资料来解决日常工作问题、进阶个人编码能力。
 
 
 <br/>
@@ -16,7 +16,7 @@
 
 1. [**标准的阅读指南**](./1.reading_gudie.md)
 2. [**标准的迭代模式**](./2.evolution.md)
-3. [**ECMAScript的宿主环境**](./3.host-environment.md)
+3. [**宿主环境**](./3.host-environment.md)
 
 **Part2 原理篇：** 
 
@@ -24,9 +24,9 @@
 5. [**文法符号系统（2）** ](./5.grammar-summary.md)
 6. [**算法符号系统**](./6.algorithm.md)
 7. [**规范类型**](./7.spec_type.md)
-8. [**ECMAScript运行环境：agents、执行上下文、Realm**](./8.execution-environment.md)
-9. [**ECMAScript运行环境：作用域与声明实例化**](./9.scope.md)
-10. [**ECMAScript运行环境：作用域链与闭包**](./10.scope-chain.md)
+8. [**运行环境：agents、执行上下文、Realm**](./8.execution-environment.md)
+9. [**运行环境：作用域与声明实例化**](./9.scope.md)
+10. [**运行环境：作用域链与闭包**](./10.scope-chain.md)
 11. [**原理篇总结：一个程序的完整执行过程**](./11.code-execution.md)
 
 **Part3 应用篇：** 
@@ -36,7 +36,7 @@
 14. [**底层算法：函数的创建与执行**](./14.function.md)
 15. [**底层算法：类的创建与实例化**](./15.class.md)
 16. [**底层算法：生成器的创建与异步迭代**](./16.iterator&generator.md)
-17. [**底层算法：ECMAScript的错误处理机制**](./17.error.md)
+17. [**底层算法：JavaScript的错误处理机制**](./17.error.md)
 18. [**应用标准：手写一个通过test262标准符合性测试的Promise**](./18.promise.md)
 19. [**应用标准：4个步骤永久根治this值问题**](./19.this.md)
 20. [**结语：使用engine262把标准“跑”起来**](./20.engine262.md)
